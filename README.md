@@ -40,14 +40,3 @@ Located in `rope/`, this module implements the relative positional encoding used
 
 ---
 
-## 🛠️ Getting Started
-
-To explore the code or run the modules locally:
-
-```bash
-# 1. Clone the repository
-git clone [https://github.com/akrist-rai/micro-llama.git](https://github.com/akrist-rai/micro-llama.git)
-cd micro-llama
-
-# 2. Install dependencies
-pip install -r requirements.txt
