@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 This repository contains a clean, from-scratch implementation of **Rotary Positional Embeddings (RoPE)** using PyTorch. 
 
