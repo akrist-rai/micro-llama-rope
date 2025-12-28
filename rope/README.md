@@ -62,10 +62,7 @@ Notice that the result depends **only** on $(m-n)$ (the relative distance), not 
 *This diagram illustrates how the input vectors are split, rotated, and recombined.*
 
 ![RoPE Architecture Diagram](./rope_diagram.jpg)
-*(Note: Ensure you have uploaded your 'rope_diagram.jpg' to this folder)*
 
-### Geometric Interpretation
-*Visualizing how the vector rotates as the position index ($m$) increases.*
 
 ![Geometric Rotation](https://raw.githubusercontent.com/meta-llama/llama/main/assets/rope_visual.png)
 *(Placeholder: The rotation in the complex plane allows the model to "sense" distance via angle)*
