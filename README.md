@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge)
+
 
 ## 🚀 The Mission
 This repository is a first-principles implementation of a modern Large Language Model (LLM), mirroring the architecture of Llama 2 / Mistral. 
