@@ -6,7 +6,7 @@
 
 This repository contains a clean, from-scratch implementation of **Rotary Positional Embeddings (RoPE)** using PyTorch. 
 
-This module is part of my ongoing project to build a Llama-style LLM completely from scratch to understand the systems engineering behind Generative AI.
+This module is part of my ongoing project to build a Llama-style LLM completely from scratch to understand the systems engineering behind LLMs.
 
 ## The Concept
 
