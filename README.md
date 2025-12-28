@@ -21,6 +21,9 @@ $$
 f(x, m) = x \cdot e^{im\theta}
 $$
 
+> [!IMPORTANT]
+> **Core Concept:** Instead of adding a vector, we rotate the query ($q$) and key ($k$) vectors by an angle $\theta$ proportional to their position $m$.
+
 This ensures that the attention score between two tokens depends only on their **relative distance** ($m - n$), not their absolute position.
 
 *(Note: Visualization diagram included in the repository documentation)*
