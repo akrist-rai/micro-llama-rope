@@ -15,14 +15,16 @@ Standard Transformers use absolute positional embeddings (adding a vector to the
 **RoPE** solves this by encoding position as a **rotation** in the complex plane. 
 
 ### How it works (The Math)
-Instead of adding a vector, we rotate the query ($q$) and key ($k$) vectors by an angle $\theta$ proportional to their position $m$.
 
-$$
-f(x, m) = x \cdot e^{im\theta}
-$$
+
+
 
 > [!IMPORTANT]
 > **Core Concept:** Instead of adding a vector, we rotate the query ($q$) and key ($k$) vectors by an angle $\theta$ proportional to their position $m$.
+>
+> $$
+f(x, m) = x \cdot e^{im\theta}
+$$
 
 This ensures that the attention score between two tokens depends only on their **relative distance** ($m - n$), not their absolute position.
 
