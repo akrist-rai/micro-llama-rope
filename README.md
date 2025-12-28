@@ -19,7 +19,7 @@ Standard Transformers use absolute positional embeddings (adding a vector to the
 
 
 
-> [!IMPORTANT]
+>                                                          [!this is the main breakthrough ]
 > **Core Concept:** Instead of adding a vector, we rotate the query ($q$) and key ($k$) vectors by an angle $\theta$ proportional to their position $m$.
 >
 > $$
